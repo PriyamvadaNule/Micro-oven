@@ -8,6 +8,7 @@ A simulated embedded system project designed to replicate the functionality of a
 
 **Priyamvada Nule**  
 Internship Project under the guidance of *Jayalaxmi N Dhanyal*
+
 *Emertxe*
 
 ---
